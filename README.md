@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;border-radius: 30%;">
 <p align="center">
 
-<h1 align="center">&emsp;Okalyptos&emsp;</h1>
+<h1>&emsp;Okalyptos&emsp;</h1>
   <a href="https://github.com/okalyptos"><img src="https://readme-typing-svg.herokuapp.com/?lines=In+the+depths+of+my+hidden+laboratory%2C;+I%27m+cooking+up+an+enigmatic+concoction;+that+defies+explanation.&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=34%22"></a>
 </p>
 
