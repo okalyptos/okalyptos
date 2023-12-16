@@ -1,10 +1,11 @@
 
-<h1 align="center">&emsp;
+<h1 align="center">
 
-<a href="https://github.com/okalyptos"><img src="https://readme-typing-svg.herokuapp.com/?lines=Okalyptos+&font=Pacifico&center=true&width=650&height=120&color=ff7f50&vCenter=true&size=34%22"></a>
+<a href="https://github.com/okalyptos">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Okalyptos+&font=Pacifico&center=true&width=650&height=120&color=ff7f50&vCenter=true&size=34%22"></a>
   
   
-  &emsp;</h1>
+  </h1>
 
 <p align="center">
   <a href="https://github.com/okalyptos"><img src="https://readme-typing-svg.herokuapp.com/?lines=In+the+depths+of+my+hidden+laboratory%2C;+I%27m+cooking+up+an+enigmatic+concoction;+that+defies+explanation.&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=34%22"></a>
