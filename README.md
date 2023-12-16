@@ -1,3 +1,13 @@
+<p align="center">
+    <a href="https://github.com/okalyptos">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=
+    In+the+depths+of+my+hidden+laboratory%2C;
+    +I%27m+cooking+up+an+enigmatic+concoction;
+    +that+defies+explanation.
+    &font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=34%22">
+    </a>
+  </p>
+
 <h2 align="left">Programming Languages</h2>
 <p align="left"> 
 
