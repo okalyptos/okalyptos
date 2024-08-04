@@ -25,11 +25,11 @@
 
   <h2 align="left">Technologies</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="mysql" width="55" height="55"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="mysql" width="55" height="55"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="55" height="55"/></a>
 
  <h2 align="left">Frameworks</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="sql" width="55" height="55"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="flutter" width="55" height="55"/></a>
 
   
