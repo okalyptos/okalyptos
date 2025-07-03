@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="flutter" width="55" height="55" />
 </p>
 
-<h2 align="left">Tools</h2>
+<h2 align="left">Tools & Platforms</h2>
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="nodejs" width="55" height="55" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="firebase" width="55" height="55" />
